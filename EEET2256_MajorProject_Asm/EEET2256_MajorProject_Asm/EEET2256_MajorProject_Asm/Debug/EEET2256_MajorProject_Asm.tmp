@@ -1,0 +1,82 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega32A"</DEVICE>
+ <WORKING_DIR>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/Programs\Atmel Studio 7.0\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>D:\Programs\Atmel Studio 7.0\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/Programs\Atmel Studio 7.0\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m32adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\Debug\EEET2256_MajorProject_Asm.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>EEET2256_MajorProject_Asm.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>EEET2256_MajorProject_Asm.map</FILE>
+  <FILE>EEET2256_MajorProject_Asm.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>21</LINE></reset>
+  <Start><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>42</LINE></Start>
+  <Init_UART><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>166</LINE></Init_UART>
+  <Init><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>193</LINE></Init>
+  <Main><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>52</LINE></Main>
+  <ReadKP_outer><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>227</LINE></ReadKP_outer>
+  <Send_UART><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>185</LINE></Send_UART>
+  <LongDelay><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>513</LINE></LongDelay>
+  <ConvToDec><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>277</LINE></ConvToDec>
+  <Errorcheck><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>435</LINE></Errorcheck>
+  <Combine><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>287</LINE></Combine>
+  <Increase><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>122</LINE></Increase>
+  <Decrease><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>136</LINE></Decrease>
+  <Go_Err><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>163</LINE></Go_Err>
+  <Go_Add><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>151</LINE></Go_Add>
+  <Go_Mult><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>157</LINE></Go_Mult>
+  <Go_Sub><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>154</LINE></Go_Sub>
+  <Go_Div><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>160</LINE></Go_Div>
+  <Addition><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>302</LINE></Addition>
+  <Subtraction><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>307</LINE></Subtraction>
+  <Multiplication><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>314</LINE></Multiplication>
+  <Division><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>326</LINE></Division>
+  <Error><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>440</LINE></Error>
+  <While><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>262</LINE></While>
+  <Content><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>231</LINE></Content>
+  <Delay><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>494</LINE></Delay>
+  <ReadKP_inner><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>267</LINE></ReadKP_inner>
+  <Table><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>523</LINE></Table>
+  <DecTable><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>541</LINE></DecTable>
+  <Mult_ten><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>292</LINE></Mult_ten>
+  <Mult><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>296</LINE></Mult>
+  <Result><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>346</LINE></Result>
+  <Go_Neg><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>343</LINE></Go_Neg>
+  <M><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>319</LINE></M>
+  <Go_Exceed><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>340</LINE></Go_Exceed>
+  <D1><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>328</LINE></D1>
+  <zero><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>337</LINE></zero>
+  <D2><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>335</LINE></D2>
+  <Exceed><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>470</LINE></Exceed>
+  <Negative><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>457</LINE></Negative>
+  <Onedig><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>355</LINE></Onedig>
+  <Twodig><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>367</LINE></Twodig>
+  <Threedig><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>390</LINE></Threedig>
+  <ConvToAsc><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>425</LINE></ConvToAsc>
+  <Restart><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>484</LINE></Restart>
+  <loop><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>370</LINE></loop>
+  <next><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>375</LINE></next>
+  <loop1><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>393</LINE></loop1>
+  <next1><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>398</LINE></next1>
+  <loop2><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>401</LINE></loop2>
+  <next2><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>406</LINE></next2>
+  <AscTable><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>551</LINE></AscTable>
+  <Go_Start><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>491</LINE></Go_Start>
+  <L1><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>501</LINE></L1>
+  <L2><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>505</LINE></L2>
+  <LD1><FILE>D:\Kevin's\Uni\SEM 4\Embedded Systems\MAJOR PROJECT NEW\EEET2256_MajorProject_Asm\EEET2256_MajorProject_Asm\main.asm</FILE><LINE>517</LINE></LD1>
+ </LABELS>
+</ASSEMBLER_INFO>
